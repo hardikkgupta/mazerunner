@@ -24,3 +24,5 @@ export const END_TILE_CONFIGURATION = {
     isTraversed: false,
     parent: null
 }
+
+export const TILE_STYLE = "lg:w-[17px] md:w-[15px]"
