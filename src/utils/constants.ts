@@ -2,7 +2,7 @@ export const MAX_ROWS = 39;
 export const MAX_COLS = 39;
 
 export const START_TILE_CONFIGURATION = {
-    row: 0,
+    row: 1,
     col: 1,
     isEnd: false,
     isWall: false,
